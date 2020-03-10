@@ -16,16 +16,16 @@ const Menu = () => (
       }}
     >
       <li>
-        <Link to="/">Home</Link>
+        <Link to="/">Welkom</Link>
       </li>
       <li>
-        <Link to="/about">About</Link>
+        <Link to="/about">Wat is het?</Link>
       </li>
       <li>
-        <Link to="/services">Services</Link>
+        <Link to="/services">Diensten</Link>
       </li>
       <li>
-        <Link to="/blog">Blog</Link>
+        <Link to="/blog">Mededelingen</Link>
       </li>
     </ul>
   </div>
